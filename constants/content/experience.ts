@@ -1,0 +1,43 @@
+export const experience = [
+    {
+        duration: '2024 - 2025',
+        title: 'Frontend Developer',
+        company: 'Company Name',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.',
+        technologies: ['React', 'Next.js', 'Tailwind CSS', 'TypeScript', 'JavaScript'],
+        image: 'https://firebasestorage.googleapis.com/v0/b/nextjs-djninex-store.appspot.com/o/dev-brand%2Flogo%2Fbg-01.png?alt=media&token=01b8f679-865d-48af-854d-8f4803b442a0',
+        imageAlt: 'Company Logo',
+        linkProject: 'https://www.google.com',
+    },
+    {
+        duration: '2024 - 2025',
+        title: 'Frontend Developer',
+        company: 'Company Name',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.',
+        technologies: ['React', 'Next.js', 'Tailwind CSS', 'TypeScript', 'JavaScript'],
+        image: 'https://firebasestorage.googleapis.com/v0/b/nextjs-djninex-store.appspot.com/o/dev-brand%2Flogo%2Fbg-01.png?alt=media&token=01b8f679-865d-48af-854d-8f4803b442a0',
+        imageAlt: 'Company Logo',
+        linkProject: 'https://www.google.com',
+    },
+    {
+        duration: '2024 - 2025',
+        title: 'Frontend Developer',
+        company: 'Company Name',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.',
+        technologies: ['React', 'Next.js', 'Tailwind CSS', 'TypeScript', 'JavaScript'],
+        image: 'https://firebasestorage.googleapis.com/v0/b/nextjs-djninex-store.appspot.com/o/dev-brand%2Flogo%2Fbg-01.png?alt=media&token=01b8f679-865d-48af-854d-8f4803b442a0',
+        imageAlt: 'Company Logo',
+        linkProject: 'https://www.google.com',
+    },
+    {
+        duration: '2024 - 2025',
+        title: 'Frontend Developer',
+        company: 'Company Name',
+        description: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam, quos.',
+        technologies: ['React', 'Next.js', 'Tailwind CSS', 'TypeScript', 'JavaScript'],
+        image: 'https://firebasestorage.googleapis.com/v0/b/nextjs-djninex-store.appspot.com/o/dev-brand%2Flogo%2Fbg-01.png?alt=media&token=01b8f679-865d-48af-854d-8f4803b442a0',
+        imageAlt: 'Company Logo',
+        linkProject: 'https://www.google.com',
+    },
+
+]
